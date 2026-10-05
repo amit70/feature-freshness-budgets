@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# large raw per-request CSVs regenerate from the scripts; keep only summaries
+matrix_results.csv
+matrix_multi_results.csv
+fine_matrix_multi_results.csv
+t1_param_sweep_results.csv
+fallback_strategy_results.csv
+load_experiment_results.csv

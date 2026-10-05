@@ -1,0 +1,6 @@
+multiplier,feature,m_star,drop_rate,predicted_permanent_drop,prop1_viol_rate
+0.45,merchant_diversity_1hr,0.5012,1.0,True,0.04
+0.45,velocity_1hr,0.5025,0.998,True,0.067
+0.45,velocity_5min,0.5062,0.998,True,0.07
+0.45,velocity_1min,0.5122,0.998,True,0.073
+0.45,geo_velocity_10min,0.6008,1.0,True,0.035

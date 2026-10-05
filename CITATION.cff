@@ -11,5 +11,5 @@ identifiers:
     value: 10.48550/arXiv.2610.02259
   - type: other
     value: "arXiv:2610.02259"
-repository-code: "https://github.com/USERNAME/feature-freshness-budgets"
+repository-code: "https://github.com/amit70/feature-freshness-budgets"
 license: MIT
